@@ -1,0 +1,24 @@
+*{
+    background-color: #FFA24C;
+}
+
+
+.para{
+   width: 300px;
+   height: 400px;
+   background-color: #B1D690;
+   margin-left: 525px;
+   margin-top: 150px;
+   border: 10px solid #FEEC37;
+}
+
+p{
+    max-width: 45%;
+    margin-left: 15%;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 50px;
+    border: black;
+    font-style: italic;
+
+}
